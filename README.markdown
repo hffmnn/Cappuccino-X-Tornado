@@ -2,7 +2,7 @@ Cappuccino X Tornado
 ==========
 
 by Elias Klughammer
-
+websocket implementation (server + client) by Christian Hoffmann
 ## Introduction
 
 This is a demo application for bringing together the Cappuccino Framework (http://www.cappuccino.org) and the Tornado Web server. (http://www.tornadoweb.org)
